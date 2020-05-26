@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,cACE,kBACF,CAEA,OACE,SACF,CAEA,KACE,UACF","file":"main.040d772d.chunk.css","sourcesContent":[".personActive {\n  background: aquamarine;\n}\n\n.women {\n  color: red;\n}\n\n.men {\n  color: blue;\n}\n"]}
